@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DerivcoTestTask", "DerivcoTestTask\DerivcoTestTask.csproj", "{72673C8B-1DF0-4929-9140-E4C55EF94CCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A618CD4F-A5F8-4A50-B84B-5CD93ED6C091}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{8F0CE7E3-423D-43AC-922E-EC7DBB4BF0D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CA6B39B-714A-43E4-9E1B-C2FC2E12111D}"
+	ProjectSection(SolutionItems) = preProject
+		Postman Requests\Derivco Test Task.postman_collection 1.json = Postman Requests\Derivco Test Task.postman_collection 1.json
+		Postman Requests\Derivco Test Task.postman_collection 2.1.json = Postman Requests\Derivco Test Task.postman_collection 2.1.json
+		Postman Requests\Derivco Test Task.postman_collection 2.json = Postman Requests\Derivco Test Task.postman_collection 2.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72673C8B-1DF0-4929-9140-E4C55EF94CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72673C8B-1DF0-4929-9140-E4C55EF94CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72673C8B-1DF0-4929-9140-E4C55EF94CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72673C8B-1DF0-4929-9140-E4C55EF94CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A618CD4F-A5F8-4A50-B84B-5CD93ED6C091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A618CD4F-A5F8-4A50-B84B-5CD93ED6C091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A618CD4F-A5F8-4A50-B84B-5CD93ED6C091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A618CD4F-A5F8-4A50-B84B-5CD93ED6C091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0CE7E3-423D-43AC-922E-EC7DBB4BF0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0CE7E3-423D-43AC-922E-EC7DBB4BF0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0CE7E3-423D-43AC-922E-EC7DBB4BF0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0CE7E3-423D-43AC-922E-EC7DBB4BF0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26DF306-C707-430D-86CE-24FA261963C0}
+	EndGlobalSection
+EndGlobal
